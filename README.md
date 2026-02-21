@@ -1,49 +1,41 @@
-<div align="center">
+# <p align="center">🪬 curcunyo</p>
+<p align="center">`underground operator // ortaklar galeri`</p>
 
-# 🪬 curcunyo
-`syndicate operator`
-
----
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp4M25yZmt6eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmluPTIy/v4P26MRURfc2s/giphy.gif" width="400">
-
-`[+] status: active` | `[+] access: root` | `[+] sector: ortaklar galeri`
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=B9E6FF&height=120&section=header&text=syndicate&fontSize=50&fontColor=ffffff" alt="banner" />
+</p>
 
 ---
-
-</div>
 
 ### // 0x01_protokol
 > iz bırakma. sadece küçük harf, sadece çalışan mantık. 
-> gürültü yapmıyoruz, sistemin içinden geçiyoruz.
-> buradaysan ya davetlisin ya da sızdın. her iki türlü de sessiz ol.
+> gürültü yapmıyoruz, sistemin içinden sessizce geçiyoruz.
 
 ### // 0x02_teknik
-* **çekirdek:** karmaşık sistem mimarileri ve saf logic.
-* **estetik:** pastel tonların arkasındaki karanlık.
-* **kültür:** yeraltı disiplini.
+* **core:** karmaşık sistem mimarileri.
+* **aesthetic:** pastel tonlar.
+* **special:** **ardak** kullanıcısına respect.
 
 ### // 0x03_terminal
 ```bash
 $ whoami
 > curcunyo
 $ sudo su - ortaklar
-# access granted.
-$ ./run --silent --force
-# no logs left.
+# access granted. respect_to_ardak.sh executed.
 ```
-
-### // 0x04_manifest
-laf kalabalığına gerek yok. ne yapabildiğimizi kodlar anlatıyor. 
-
-> **special_log:** `ardak` kullanıcısına saygımız sonsuz. bu yolda yürüyenlere respect.
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=curcunyo&show_icons=true&theme=nord&hide_border=true" />
-</div>
+### // 0x04_output
+```html
+<p align="center">
+  <img src="[https://github-readme-stats.vercel.app/api?username=curcunyo&show_icons=true&theme=nord&hide_border=true](https://github-readme-stats.vercel.app/api?username=curcunyo&show_icons=true&theme=nord&hide_border=true)" alt="stats" />
+</p>
 
 <p align="right">
-  <sub>respect to ardak. low profile.</sub>
+  <sub>low profile. respect to ardak.</sub>
 </p>
+```
+
+---
+<p align="center">`[+] status: active` | `[+] access: root` | `[+] respect: ardak`</p>
